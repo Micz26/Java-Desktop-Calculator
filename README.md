@@ -1,6 +1,6 @@
 # Java-Desktop-Calculator
 
-The **Calculator** is a simple Java application that provides basic arithmetic calculations through a graphical user interface.
+The **Java-Desktop-Calculator** is a simple Java application that provides basic arithmetic calculations through a graphical user interface.
 
 ## Features
 
